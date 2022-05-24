@@ -7,5 +7,5 @@ Just fork the repo using git and start running the editor on your Local Machine
 Just the Latest Java Module and an IDE(OPtional)
 # Installing
 Open your terminal/Command Prompt
-Type git clone 
+Type git clone https://github.com/iamrajmani/text-editor.git
 Then run the  JAVAp.java file in any IDE or directly using JDK Module
